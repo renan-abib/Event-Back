@@ -1,0 +1,21 @@
+1. Clone e instalação
+
+- Clonar e dar npm install em ambos os repos
+
+2. Mudar a URL no front
+
+-     baseURL: "http://localhost:8080" no api.js (services)
+
+3. npm start
+
+- fazer isso no repo do backend (cmd na pasta)
+
+4. npx next build
+
+- buildar o next local pra compilar, toda vez que for mexer e salvar o codigo
+
+5. npx next start
+
+- fazer isso no repo do front (cmd na pasta)
+
+6. Acessar o localhost:3000 pra ver o site
